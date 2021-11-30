@@ -1,4 +1,9 @@
-# Brain_typing
+# REPRODUCING THE RESULT FROM Brain_typing PAPER
+
+In original paper they have used tensorflow v1 which is outdated and hard to understand what is going on. So I implement the same architecture using Pytorch. 
+
+
+# Brain_typing (ORIGINAL README)
 Codes, data for brain typing paper.
 
 Converting Your Thoughts to Texts: Enabling Brain Typing via Deep Feature Learning of EEG Signals (https://arxiv.org/pdf/1709.08820.pdf)
