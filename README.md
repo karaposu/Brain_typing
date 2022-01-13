@@ -1,6 +1,8 @@
-# Reproducing The Brain_typing Paper
+# Reproducing The "Brain Typing" Paper
 
-In original paper they have used tensorflow v1 which is outdated and hard to understand what is going on. So I implement the same architecture using Pytorch. 
+In original paper they have used tensorflow v1 which is outdated and hard to understand what is going on. 
+
+So I implement the same architecture using Pytorch. 
 
 
 # Brain_typing (Original README)
