@@ -4,6 +4,8 @@ In original paper they have used tensorflow v1 which is outdated and hard to und
 
 So I implement the same architecture using Pytorch. 
 
+Main file is Brain_Typing_Reproducing_with_Pytorch.ipynb. It is fully compatible with Colab.  
+
 
 # Brain_typing (Original README)
 Codes, data for brain typing paper.
