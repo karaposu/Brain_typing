@@ -1,3 +1,10 @@
+Reproducing The "Brain Typing" Paper
+==========================================
+[![Arxiv](https://img.shields.io/badge/ArXiv-1904.07785-orange.svg)](https://arxiv.org/pdf/1709.08820)
+[![codebeat badge](https://codebeat.co/badges/07c1f2f5-b138-48cb-bdca-15bed746c500)]
+(https://codebeat.co/projects/github-com-benedekrozemberczki-graphwaveletneuralnetwork-master) 
+[![repo size](https://img.shields.io/github/repo-size/karaposu/Brain_Typing.svg)](https://github.com/karaposu/Brain_Typing/archive/master.zip)⠀
+
 # Reproducing The "Brain Typing" Paper
 
 In original paper they have used tensorflow v1 which is outdated and hard to understand what is going on. 
