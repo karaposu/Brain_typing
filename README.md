@@ -2,7 +2,6 @@ Reproducing The "Brain Typing" Paper
 ==========================================
 [![Arxiv](https://img.shields.io/badge/ArXiv-1904.07785-orange.svg)](https://arxiv.org/pdf/1709.08820) [![repo size](https://img.shields.io/github/repo-size/karaposu/Brain_Typing.svg)](https://github.com/karaposu/Brain_Typing/archive/master.zip)⠀
 
-# Reproducing The "Brain Typing" Paper
 
 In original paper they have used tensorflow v1 which is outdated and hard to understand what is going on. 
 
