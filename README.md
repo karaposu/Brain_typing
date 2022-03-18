@@ -3,11 +3,9 @@ Reproducing The "Brain Typing" Paper
 [![Arxiv](https://img.shields.io/badge/ArXiv-1904.07785-orange.svg)](https://arxiv.org/pdf/1709.08820) [![repo size](https://img.shields.io/github/repo-size/karaposu/Brain_Typing.svg)](https://github.com/karaposu/Brain_Typing/archive/master.zip)⠀
 
 
-In original paper they have used tensorflow v1 which is outdated and hard to understand what is going on. 
+# In original paper authors used tensorflow v1. Tensorflow v1 is depricated and hard to implement. So I implement the same architecture using Pytorch. 
 
-So I implement the same architecture using Pytorch. 
-
-Main file is Brain_Typing_Reproducing_with_Pytorch.ipynb. It is fully compatible with Colab.  
+Main file is Brain_Typing_Reproducing_with_Pytorch.ipynb. It is fully compatible with Google Colab.  
 
 
 # Brain_typing (Original README)
